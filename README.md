@@ -7,7 +7,7 @@ This project is a simple and intuitive food ordering web application. It allows 
 
 ## Preview:
 <img src="/public/home.png" alt="Home page"/>
-<img src="/public/Order.png" alt="Order page"/>
+<img src="/public/order.png" alt="Order page"/>
 <img src="/public/checkout.png" alt="Checkout page"/>
 
 <hr>
