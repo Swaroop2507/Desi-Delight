@@ -1,10 +1,18 @@
-
-
 # Food Ordering Web Application Documentation
 
 ## Overview
 
 This project is a simple and intuitive food ordering web application. It allows users to browse meals, add their favorite items to the cart, and proceed to checkout. The application is designed with a clean and user-friendly interface, making it easy for users to navigate and complete their orders.
+
+
+## Preview:
+<img src="/public/home.png" alt="Home page"/>
+<img src="/public/Order.png" alt="Order page"/>
+<img src="/public/checkout.png" alt="Checkout page"/>
+
+<hr>
+
+
 
 ## Features
 
